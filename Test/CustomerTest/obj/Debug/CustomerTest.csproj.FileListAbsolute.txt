@@ -1,0 +1,8 @@
+E:\Projects\C#\CMS\Test\CustomerTest\bin\Debug\CustomerTest.dll
+E:\Projects\C#\CMS\Test\CustomerTest\bin\Debug\CustomerTest.pdb
+E:\Projects\C#\CMS\Test\CustomerTest\bin\Debug\CMS.BL.dll
+E:\Projects\C#\CMS\Test\CustomerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\C#\CMS\Test\CustomerTest\bin\Debug\CMS.BL.pdb
+E:\Projects\C#\CMS\Test\CustomerTest\obj\Debug\CustomerTest.csprojResolveAssemblyReference.cache
+E:\Projects\C#\CMS\Test\CustomerTest\obj\Debug\CustomerTest.dll
+E:\Projects\C#\CMS\Test\CustomerTest\obj\Debug\CustomerTest.pdb

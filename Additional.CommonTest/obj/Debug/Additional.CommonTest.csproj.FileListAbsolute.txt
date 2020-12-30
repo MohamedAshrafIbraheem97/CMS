@@ -1,0 +1,9 @@
+E:\Projects\C#\CMS\Additional.CommonTest\bin\Debug\Additional.CommonTest.dll
+E:\Projects\C#\CMS\Additional.CommonTest\bin\Debug\Additional.CommonTest.pdb
+E:\Projects\C#\CMS\Additional.CommonTest\bin\Debug\Additional.Common.dll
+E:\Projects\C#\CMS\Additional.CommonTest\bin\Debug\Additional.Common.pdb
+E:\Projects\C#\CMS\Additional.CommonTest\obj\Debug\Additional.CommonTest.csprojResolveAssemblyReference.cache
+E:\Projects\C#\CMS\Additional.CommonTest\obj\Debug\Additional.CommonTest.dll
+E:\Projects\C#\CMS\Additional.CommonTest\obj\Debug\Additional.CommonTest.pdb
+E:\Projects\C#\CMS\Additional.CommonTest\bin\Debug\CMS.BL.dll
+E:\Projects\C#\CMS\Additional.CommonTest\bin\Debug\CMS.BL.pdb
